@@ -30,3 +30,25 @@ Look Fors:
   - Loops
   - Presentation of report: make sure your report has a header/title and is laid out well
     using appropriate whitespace
+
+DAY 2:
+- Part 4: Output the user’s highest mark on their report card (and the
+  subject they earned this mark in) and their lowest mark (and the
+  corresponding subject)
+- Part 5: Output an honour roll section (appropriately titled) which
+  lists all the subjects the student has earned a grade of 80% or better
+  in.
+- Part 6: Output a section for credits not earned (appropriately titled)
+  which outputs the number of unsuccessful credits (ie the number of
+  courses for which the student had a mark less than 50%)
+  
+ Look Fors:
+- Header (Name, date, and what the program is and/or does)
+- Code is easy to read, well formatted/indented, good use of whitespace, …
+- Comments: clearly state what you are doing and how → these are your voice explaining
+  your thinking (you can’t have too many)
+- Appropriate variable naming conventions and data types including arrays
+- Decision structures
+- Loops
+- Presentation of report: make sure your report has a header/title and is laid out well
+  using appropriate whitespace
