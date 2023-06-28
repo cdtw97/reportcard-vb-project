@@ -1,4 +1,4 @@
-# reportcard-vb-project
+# reportcard-vb-project (Tutoring)
 Report
 Instructions:
   - Write a program that allows the user to enter their subjects and grades for
